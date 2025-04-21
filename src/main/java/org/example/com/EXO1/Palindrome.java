@@ -1,5 +1,6 @@
 package org.example.com.EXO1;
 
+/* EXO 01 */
 public class Palindrome {
     public static boolean isPalindrome(String s) {
         if (s == null) {

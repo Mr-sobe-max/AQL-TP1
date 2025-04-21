@@ -5,37 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59a92feb-6a8d-4511-a729-151c4f3b25f6" name="Changes" comment="TP01">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/com/EXO1/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/com/EXO1/PalindromeCorrige.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/com/EXO2/Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/com/EXO2/AnagramCorrige.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/com/EXO3/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/com/EXO3/BinarySearchCorrige.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/com/EXO4/QuadraticEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/com/EXO5/RomanNumeral.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/com/EXO5/RomanNumeralCorrige.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/com/EXO6/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/com/EXO6/FizzBuzzCorrige.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BranchCoverage/EXO1/PalindromeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BranchCoverage/EXO2/AnagramTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BranchCoverage/EXO3/BinarySearchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BranchCoverage/EXO4/QuadraticEquationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BranchCoverage/EXO5/RomanNumeralTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BranchCoverage/EXO6/FizzBuzzTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ConditionCoverage/EXO1/PalindromeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ConditionCoverage/EXO2/AnagramTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ConditionCoverage/EXO3/BinarySearchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ConditionCoverage/EXO4/QuadraticEquationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ConditionCoverage/EXO5/RomanNumeralTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ConditionCoverage/EXO6/FizzBuzzTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LineCoverage/EXO1/PalindromeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LineCoverage/EXO2/AnagramTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LineCoverage/EXO3/BinarySearchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LineCoverage/EXO4/QuadraticEquationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LineCoverage/EXO5/RomanNumeralTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LineCoverage/EXO6/FizzBuzzTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +34,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "JUnit.AnagramTest.executor": "Run",
+    "JUnit.BranchCoverage in TP1.executor": "Run",
     "JUnit.FizzBuzzTest.executor": "Run",
     "JUnit.PalindromeTest.executor": "Run",
     "JUnit.QuadraticEquationTest.executor": "Run",
@@ -77,6 +48,20 @@
   }
 }]]></component>
   <component name="RunManager">
+    <configuration name="BranchCoverage in TP1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TP1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BranchCoverage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BranchCoverage" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,6 +73,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BranchCoverage in TP1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

@@ -1,5 +1,6 @@
 package org.example.com.EXO1;
 
+/* EXO 01 AVEC CORRECTION */
 public class PalindromeCorrige {
     public static boolean isPalindrome(String s) {
         if (s == null) {

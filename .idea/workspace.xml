@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59a92feb-6a8d-4511-a729-151c4f3b25f6" name="Changes" comment="TP01">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/com/EXO2/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/com/EXO2/Anagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/com/EXO2/AnagramCorrige.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/com/EXO2/AnagramCorrige.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BranchCoverage/EXO2/AnagramTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BranchCoverage/EXO2/AnagramTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/com/EXO3/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/com/EXO3/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/com/EXO3/BinarySearchCorrige.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/com/EXO3/BinarySearchCorrige.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BranchCoverage/EXO3/BinarySearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BranchCoverage/EXO3/BinarySearchTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

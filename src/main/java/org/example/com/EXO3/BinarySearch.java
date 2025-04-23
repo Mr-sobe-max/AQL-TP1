@@ -1,5 +1,6 @@
 package org.example.com.EXO3;
 
+/* EXO 03 */
 public class BinarySearch {
     public static int binarySearch(int[] array, int element) {
         if (array == null) {

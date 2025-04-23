@@ -1,5 +1,6 @@
 package org.example.com.EXO3;
 
+/* EXO 03 AVEC CORRECTION */
 public class BinarySearchCorrige {
     public static int binarySearch(int[] array, int element) {
         if (array == null) {

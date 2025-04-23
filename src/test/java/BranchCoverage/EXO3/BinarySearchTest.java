@@ -4,6 +4,7 @@ import org.example.com.EXO3.BinarySearch;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
+/* EXO 03 TEST */
 class BinarySearchTest {
     @Test
     void testBinarySearchWithElementAtStart() {

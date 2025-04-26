@@ -4,6 +4,7 @@ import org.example.com.EXO4.QuadraticEquation;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
+/* EXO 04 TEST */
 class QuadraticEquationTest {
     @Test
     void testSolveWithTwoRoots() {

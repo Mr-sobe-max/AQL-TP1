@@ -1,5 +1,6 @@
 package org.example.com.EXO6;
 
+/* EXO 06 */
 public class FizzBuzz {
     public static String fizzBuzz(int n) {
         if (n <= 1) {

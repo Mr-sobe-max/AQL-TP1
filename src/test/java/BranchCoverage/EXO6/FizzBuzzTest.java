@@ -4,6 +4,7 @@ import org.example.com.EXO6.FizzBuzz;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
+/* EXO 06 TEST */
 class FizzBuzzTest {
     @Test
     void testFizzBuzzWithDivisibleBy3() {

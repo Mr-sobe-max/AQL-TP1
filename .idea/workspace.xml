@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59a92feb-6a8d-4511-a729-151c4f3b25f6" name="Changes" comment="TP01">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/com/EXO5/RomanNumeral.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/com/EXO5/RomanNumeral.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/com/EXO5/RomanNumeralCorrige.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/com/EXO5/RomanNumeralCorrige.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/com/EXO6/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/com/EXO6/FizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/com/EXO6/FizzBuzzCorrige.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/com/EXO6/FizzBuzzCorrige.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BranchCoverage/EXO6/FizzBuzzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BranchCoverage/EXO6/FizzBuzzTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -4,6 +4,7 @@ import org.example.com.EXO1.Palindrome;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
+/* EXO 01 TEST */
 class PalindromeTest {
     @Test
     void testPalindromeWithValidPalindrome() {

@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59a92feb-6a8d-4511-a729-151c4f3b25f6" name="Changes" comment="TP01">
-      <change beforePath="$PROJECT_DIR$/src/test/java/ConditionCoverage/EXO1/PalindromeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ConditionCoverage/EXO1/PalindromeTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="59a92feb-6a8d-4511-a729-151c4f3b25f6" name="Changes" comment="TP01" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

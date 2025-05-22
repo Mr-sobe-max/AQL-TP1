@@ -1,5 +1,6 @@
 package org.example.com.EXO2;
 
+/* EXO 02 AVEC CORRECTION */
 public class AnagramCorrige {
     public static boolean isAnagram(String s1, String s2) {
         if (s1 == null || s2 == null) {

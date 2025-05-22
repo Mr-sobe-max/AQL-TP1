@@ -4,6 +4,7 @@ import org.example.com.EXO2.Anagram;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
+/* EXO 02 TEST */
 class AnagramTest {
     @Test
     void testAnagramWithValidAnagram() {

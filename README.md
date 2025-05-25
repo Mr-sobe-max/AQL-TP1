@@ -25,7 +25,7 @@ Ce projet contient les solutions pour le TP1 sur les tests unitaires avec JUnit 
 - **README.md** : Ce fichier.
 
 ## Exercices et tests utilisés
-- **Exercice 1 : Palindrome
+- **Exercice 1 : Palindrome**
   - Classe : Palindrome (méthode isPalindrome)
   - Tests :
   - Lignes : Palindrome ("kayak"), non-palindrome ("hello"), null, chaîne vide, chaîne avec espaces.
@@ -38,7 +38,7 @@ Ce projet contient les solutions pour le TP1 sur les tests unitaires avec JUnit 
   - Note : Les tests pour les trois critères sont similaires (conditions simples).
 
 
-- **Exercice 2 : Anagram
+- **Exercice 2 : Anagram**
 
   - Classe : Anagram (méthode isAnagram)
   - Tests :
@@ -55,7 +55,7 @@ Ce projet contient les solutions pour le TP1 sur les tests unitaires avec JUnit 
   - Note : Tests similaires pour les trois critères.
 
 
-- **Exercice 3 : BinarySearch
+- **Exercice 3 : BinarySearch**
 
   - Classe : BinarySearch (méthode binarySearch)
   - Tests :
@@ -68,7 +68,7 @@ Ce projet contient les solutions pour le TP1 sur les tests unitaires avec JUnit 
   - Fichiers de test : LineCoverageTest/EXO3/BinarySearchTest.java, BranchCoverageTest/EXO3/BinarySearchTest.java, ConditionCoverageTest/EXO3/BinarySearchTest.java
 
 
-- **Exercice 4 : QuadraticEquation
+- **Exercice 4 : QuadraticEquation**
 
   - Classe : QuadraticEquation (méthode solve)
   - Tests :
@@ -81,7 +81,7 @@ Ce projet contient les solutions pour le TP1 sur les tests unitaires avec JUnit 
   - Note : Tests similaires pour les trois critères.
 
 
-- **Exercice 5 : RomanNumeral
+- **Exercice 5 : RomanNumeral**
 
   - Classe : RomanNumeral (méthode toRoman)
   - Tests :
@@ -94,7 +94,7 @@ Ce projet contient les solutions pour le TP1 sur les tests unitaires avec JUnit 
   - Fichiers de test : LineCoverageTest/EXO5/RomanNumeralTest.java, BranchCoverageTest/EXO5/RomanNumeralTest.java, ConditionCoverageTest/EXO5/RomanNumeralTest.java
 
 
-- **Exercice 6 : FizzBuzz
+- **Exercice 6 : FizzBuzz**
 
   - Classe : FizzBuzz (méthode fizzBuzz)
   - Tests :

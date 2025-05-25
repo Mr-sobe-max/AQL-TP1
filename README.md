@@ -11,12 +11,12 @@ Ce projet contient les solutions pour le TP1 sur les tests unitaires avec JUnit 
 
 ## Structure du projet
 - **src/main/java/org.example.com/EXO{numeroExo}/** : Classes Java :
-  - `Palindrome.java`, `PalindromeCorrection.java`
-  - `Anagram.java`, `AnagramCorrection.java`
-  - `BinarySearch.java`, `BinarySearchCorrection.java`
+  - `Palindrome.java`, `PalindromeCorrige.java`
+  - `Anagram.java`, `AnagramCorrige.java`
+  - `BinarySearch.java`, `BinarySearchCorrige.java`
   - `QuadraticEquation.java`
-  - `RomanNumeral.java`, `RomanNumeralCorrection.java`
-  - `FizzBuzz.java`, `FizzBuzzCorrection.java`
+  - `RomanNumeral.java`, `RomanNumeralCorrige.java`
+  - `FizzBuzz.java`, `FizzBuzzCorrige.java`
 - **src/test/java/** :
   - `LineCoverage/Exo{numeroExo}/classNameTest.java` : Tests pour la couverture des lignes.
   - `BranchCoverage/Exo{numeroExo}/classNameTest.java` : Tests pour la couverture des branches.

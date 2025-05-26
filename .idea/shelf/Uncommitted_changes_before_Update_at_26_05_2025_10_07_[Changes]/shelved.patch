@@ -1,0 +1,17 @@
+Index: src/main/java/org/example/com/EXO2/Anagram.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package org.example.com.EXO2;\r\n\r\n/* EXO 02 */\r\npublic class Anagram {\r\n    public static boolean isAnagram(String s1, String s2) {\r\n        if (s1 == null || s2 == null) {\r\n            throw new NullPointerException(\"Strings must not be null\");\r\n        }\r\n        s1 = s1.toLowerCase().replaceAll(\"\\\\s+\", \"\");\r\n        s2 = s2.toLowerCase().replaceAll(\"\\\\s+\", \"\");\r\n        if (s1.length() != s2.length()) {\r\n            return false;\r\n        }\r\n        int[] count = new int[26];\r\n        for (int i = 0; i <= s1.length(); i++) {\r\n            count[s1.charAt(i) - 'a']++;\r\n            count[s2.charAt(i) - 'a']--;\r\n        }\r\n        for (int c : count) {\r\n            if (c != 0) {\r\n                return false;\r\n            }\r\n        }\r\n        return true;\r\n    }\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/org/example/com/EXO2/Anagram.java b/src/main/java/org/example/com/EXO2/Anagram.java
+--- a/src/main/java/org/example/com/EXO2/Anagram.java	(revision a60123141ae2e1d6ef1105773d445d0b0993b9fb)
++++ b/src/main/java/org/example/com/EXO2/Anagram.java	(date 1748250349184)
+@@ -1,6 +1,5 @@
+ package org.example.com.EXO2;
+ 
+-/* EXO 02 */
+ public class Anagram {
+     public static boolean isAnagram(String s1, String s2) {
+         if (s1 == null || s2 == null) {

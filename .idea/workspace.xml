@@ -29,22 +29,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JUnit.AnagramTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.BranchCoverage in TP1.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.FizzBuzzTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PalindromeTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.QuadraticEquationTest.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.AnagramTest.executor": "Run",
+    "JUnit.BranchCoverage in TP1.executor": "Run",
+    "JUnit.FizzBuzzTest.executor": "Run",
+    "JUnit.PalindromeTest.executor": "Run",
+    "JUnit.QuadraticEquationTest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Merging master",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: []
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": []
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="BranchCoverage in TP1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TP1" />
